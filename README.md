@@ -40,3 +40,20 @@ This tool captures Ethernet frames directly from the network interface and decod
 Python 3.x
 
 dpkt
+
+---
+
+##  Future Enhancements
+
+- PCAP saving  
+- Display filters (Wireshark-style)  
+- DNS/HTTP parsing  
+- Web-based UI  
+- Multi-threaded capture  
+
+---
+
+##   Author
+
+Deepak M  
+Cybersecurity & Networking Enthusiast
